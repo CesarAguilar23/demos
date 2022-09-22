@@ -1,2 +1,2 @@
 # demos
-Some examples of previous work, all generated with dummy data and independently. 
+Some examples of previous work, all generated with dummy or publicly available data and independently. 
